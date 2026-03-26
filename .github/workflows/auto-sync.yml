@@ -39,4 +39,4 @@ jobs:
           # git reset --hard upstream/main
           
           echo "✅ Using PAT to push..."
-          git push -f https://x-access-token:${MY_PAT}@github.com/fivewillow/sickn33-antigravity-awesome-skills.git main
+          git push -f https://x-access-token:${MY_PAT}@github.com/fivewillow//affaan-m-everything-claude-code.git main
